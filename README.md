@@ -6,9 +6,9 @@ Then answer in the space below each question:
 1. First name
 Zhengfei
 2. Last name
-Zhang
+
 3. Favourite animal
-Cat
+Rabbit
 
 Now click the green 'commit changes' button at the bottom.
 
